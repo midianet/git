@@ -27,8 +27,6 @@ docker inspect teste1
 docker inspect teste2
 ```
 
- v,ttttttttttttttt
-
 ### Voltando pra masterzzzzzz
 ```
 git checkout master
